@@ -1,16 +1,17 @@
-## Hi there 👋
+### Languages:
 
-<!--
-**battlefeel1942/battlefeel1942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Python3 | JS |
+| --- | --- |
+| [<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) | 
 
-Here are some ideas to get you started:
+### Environments, Testing, Other:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| nodejs | Git | Docker |
+| --- | --- | --- |
+| [<img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg) | 
+
+### OS:
+
+| Linux | Ubuntu | 
+| --- | --- | 
+| [<img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg) | 
