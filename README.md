@@ -3,7 +3,9 @@
 ## Scripts:
 ### Indesign Scripts
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/battlefeel1942/indesign-scripts)
+
 A collection of useful scripts for Adobe InDesign to enhance your workflo
+
 - Auto Bold
 - Convert Paragraph Language to UK English
 - Create Event Ticket Counter
