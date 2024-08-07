@@ -1,4 +1,6 @@
-## Web Servies:
+# Development:
+
+## Servies:
 
 ### Color Step Gradient Generator
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/battlefeel1942/color-step)
@@ -22,7 +24,7 @@ The Sun Position Calculator is a web-based application designed to provide real-
 
 <hr >
 
-## Development Tools:
+## Tools:
 
 ### Languages:
 
