@@ -1,4 +1,6 @@
-## Indesign Scripts
+## Scripts
+
+### InDesign
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/battlefeel1942/indesign-scripts)
 
 A collection of useful scripts for Adobe InDesign to enhance your workflow
