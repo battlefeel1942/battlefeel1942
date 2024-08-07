@@ -22,6 +22,8 @@ A collection of useful scripts for Adobe InDesign to enhance your workflow
 - Update Page Locks
 - Update Units
 
+<hr >
+
 ## SPA / Online Servies:
 
 ### Color Step Gradient Generator
