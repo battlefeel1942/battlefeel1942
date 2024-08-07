@@ -32,7 +32,8 @@
 
 | nodejs | Git | Docker | Arduino |
 | --- | --- | --- | --- |
-| ![NodeJS](https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg) | ![Git](https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg) | ![Docker](https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg) | ![Arduino](https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-original-wordmark.svg) |
+| [<img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg) |
+
 
 
 ### OS:
