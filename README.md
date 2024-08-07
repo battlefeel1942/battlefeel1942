@@ -1,3 +1,28 @@
+# Graphic Design:
+
+## Scripts:
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/battlefeel1942/indesign-scripts)
+Auto Bold
+Convert Paragraph Language to UK English
+Create Event Ticket Counter
+Fix Fractional Font Sizes
+Match Object Dimensions
+Match Object to Page Size
+Remove Imported Bullet Points
+Remove Unused Swatches
+Remove all Line Breaks
+Show Empty Text Boxes
+Show List of Duplicate Images
+Show List of Images that are Smaller than their Container
+Show List of Paragraph Only Font Sizes
+Show List of Sections
+Swap Object Positions
+Update Page Locks
+Update Units
+
+
+## Software:
+
 # Development:
 
 ## Servies:
