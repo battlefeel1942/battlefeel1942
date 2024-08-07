@@ -20,11 +20,7 @@ Text Case Transformer is a versatile web-based tool that allows users to easily 
 
 The Sun Position Calculator is a web-based application designed to provide real-time solar data based on the user's geographical location. By utilizing HTML, Tailwind CSS for styling, and JavaScript with the SunCalc library, it calculates and displays solar azimuth, solar altitude, solar noon, sunrise, sunset times, and the day's length.
 
-### OS:
-
-| Windows | Linux | Ubuntu | 
-| --- | --- | --- |
-| [<img src="https://github.com/devicons/devicon/raw/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg) | 
+<hr >
 
 ## Development Tools:
 
