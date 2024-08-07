@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | [<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="VueJS" alt="VueJS" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg) | 
 
-### Web:
+### Web Frameworks:
 | VueJS | TailWind |
 | --- | --- |
 | [<img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg) | 
