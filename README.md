@@ -1,7 +1,4 @@
-# Graphic Design:
-
-## Scripts:
-### Indesign Scripts
+## Indesign Scripts
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/battlefeel1942/indesign-scripts)
 
 A collection of useful scripts for Adobe InDesign to enhance your workflow
@@ -23,30 +20,7 @@ A collection of useful scripts for Adobe InDesign to enhance your workflow
 - Update Page Locks
 - Update Units
 
-
-<hr >
-
-## Software:
-
-### Adobe
-
-| InDesign | Illustrator | Photoshop | Premiere Pro | After Effects |
-| --- | --- | --- | --- | --- |
-| [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/InDesign.png" title="InDesign" alt="InDesign" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/InDesign.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Illustrator.png" title="Illustrator" alt="Illustrator" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Illustrator.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Photoshop.png" title="Photoshop" alt="Photoshop" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Photoshop.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Premiere.png" title="Premiere Pro" alt="Premiere Pro" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Premiere.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/After%20Effects.png" title="After Effects" alt="After Effects" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/After%20Effects.png) |
-
-### Affinity
-
-| Publisher | Designer | Photo |
-| --- | --- | --- |
-| [<img src="https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/publisher.svg" title="Affinity Publisher" alt="Affinity Publisher" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/publisher.svg) | [<img src="https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/designer.svg" title="Affinity Designer" alt="Affinity Designer" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/designer.svg) | [<img src="https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/photo.svg" title="Affinity Photo" alt="Affinity Photo" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/photo.svg) |
-
-
-<hr >
-
-
-# Development:
-
-## Servies:
+## SPA / Online Servies:
 
 ### Color Step Gradient Generator
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/battlefeel1942/color-step)
@@ -72,7 +46,23 @@ The Sun Position Calculator is a web-based application designed to provide real-
 
 ## Tools:
 
-### Languages:
+### Software:
+
+#### Adobe
+
+| InDesign | Illustrator | Photoshop | Premiere Pro | After Effects |
+| --- | --- | --- | --- | --- |
+| [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/InDesign.png" title="InDesign" alt="InDesign" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/InDesign.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Illustrator.png" title="Illustrator" alt="Illustrator" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Illustrator.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Photoshop.png" title="Photoshop" alt="Photoshop" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Photoshop.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Premiere.png" title="Premiere Pro" alt="Premiere Pro" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Premiere.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/After%20Effects.png" title="After Effects" alt="After Effects" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/After%20Effects.png) |
+
+#### Affinity
+
+| Publisher | Designer | Photo |
+| --- | --- | --- |
+| [<img src="https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/publisher.svg" title="Affinity Publisher" alt="Affinity Publisher" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/publisher.svg) | [<img src="https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/designer.svg" title="Affinity Designer" alt="Affinity Designer" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/designer.svg) | [<img src="https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/photo.svg" title="Affinity Photo" alt="Affinity Photo" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/photo.svg) |
+
+<hr >
+
+### Programming/Coding Languages:
 
 | Python3 | JS | C |
 | --- | --- | --- |
