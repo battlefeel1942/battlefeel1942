@@ -24,6 +24,7 @@ A collection of useful scripts for Adobe InDesign to enhance your workflow
 - Update Units
 
 
+<hr >
 
 ## Software:
 
@@ -35,12 +36,12 @@ A collection of useful scripts for Adobe InDesign to enhance your workflow
 
 ### Affinity
 
-| Affinity Publisher | Affinity Photo | Affinity Designer |
+| Affinity Publisher | Affinity Designer | Affinity Photo |
 | --- | --- | --- |
-| [<img src="https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/publisher.svg" title="Affinity Publisher" alt="Affinity Publisher" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/publisher.svg) | [<img src="https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/photo.svg" title="Affinity Photo" alt="Affinity Photo" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/photo.svg) | [<img src="https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/designer.svg" title="Affinity Designer" alt="Affinity Designer" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/designer.svg) |
+| [<img src="https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/publisher.svg" title="Affinity Publisher" alt="Affinity Publisher" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/publisher.svg) | [<img src="https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/designer.svg" title="Affinity Designer" alt="Affinity Designer" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/designer.svg) | [<img src="https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/photo.svg" title="Affinity Photo" alt="Affinity Photo" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/battlefeel1942/affinity-software-icons/main/v2/photo.svg) |
 
 
-
+<hr >
 
 
 # Development:
