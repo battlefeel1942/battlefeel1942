@@ -6,6 +6,7 @@
 
 ### Web:
 | VueJS | TailWind |
+| --- | --- |
 | [<img src="https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg) | 
 
 ### Environments, Testing, Other:
