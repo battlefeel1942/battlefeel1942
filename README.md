@@ -27,6 +27,11 @@ A collection of useful scripts for Adobe InDesign to enhance your workflow
 
 ## Software:
 
+| InDesign | Illustrator | Photoshop | Premiere Pro | After Effects | Affinity Designer |
+| --- | --- | --- | --- | --- | --- |
+| [<img src="https://github.com/devicons/devicon/raw/master/icons/indesign/indesign-original.svg" title="InDesign" alt="InDesign" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/indesign/indesign-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/illustrator/illustrator-original.svg" title="Illustrator" alt="Illustrator" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" alt="After Effects" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/affinitydesigner/affinitydesigner-original.svg" title="Affinity Designer" alt="Affinity Designer" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/affinitydesigner/affinitydesigner-original.svg) |
+
+
 # Development:
 
 ## Servies:
