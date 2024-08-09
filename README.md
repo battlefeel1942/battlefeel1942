@@ -27,7 +27,33 @@ Text Case Transformer is a versatile web-based tool that allows users to easily 
 
 The Sun Position Calculator is a web-based application designed to provide real-time solar data based on the user's geographical location. By utilizing HTML, Tailwind CSS for styling, and JavaScript with the SunCalc library, it calculates and displays solar azimuth, solar altitude, solar noon, sunrise, sunset times, and the day's length.
 
-## Tools I Use:
+<hr >
+
+## Scripts
+
+### InDesign
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/battlefeel1942/indesign-scripts)
+
+A collection of useful scripts for Adobe InDesign to enhance your workflow
+- Auto Bold
+- Convert Paragraph Language to UK English
+- Create Event Ticket Counter
+- Fix Fractional Font Sizes
+- Match Object Dimensions
+- Match Object to Page Size
+- Remove Imported Bullet Points
+- Remove Unused Swatches
+- Remove all Line Breaks
+- Show Empty Text Boxes
+- Show List of Duplicate Images
+- Show List of Images that are Smaller than their Container
+- Show List of Paragraph Only Font Sizes
+- Show List of Sections
+- Swap Object Positions
+- Update Page Locks
+- Update Units
+
+## Tools:
 
 ### Software:
 
@@ -56,46 +82,14 @@ The Sun Position Calculator is a web-based application designed to provide real-
 | --- | --- | --- |
 | ![VueJS](https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg) | ![Tailwind CSS](https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg) | ![WordPress](https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg) |
 
-
 ### Environments, Testing, Other:
 
 | nodejs | Git | Docker | Arduino |
 | --- | --- | --- | --- |
 | [<img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg) |
 
-
-
 ### OS:
 
 | Windows | Linux | Ubuntu | 
 | --- | --- | --- |
 | [<img src="https://github.com/devicons/devicon/raw/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg) | 
-
-<hr >
-
-## Scripts
-
-### InDesign
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/battlefeel1942/indesign-scripts)
-
-A collection of useful scripts for Adobe InDesign to enhance your workflow
-- Auto Bold
-- Convert Paragraph Language to UK English
-- Create Event Ticket Counter
-- Fix Fractional Font Sizes
-- Match Object Dimensions
-- Match Object to Page Size
-- Remove Imported Bullet Points
-- Remove Unused Swatches
-- Remove all Line Breaks
-- Show Empty Text Boxes
-- Show List of Duplicate Images
-- Show List of Images that are Smaller than their Container
-- Show List of Paragraph Only Font Sizes
-- Show List of Sections
-- Swap Object Positions
-- Update Page Locks
-- Update Units
-
-
-
