@@ -4,20 +4,20 @@ Welcome to my GitHub! I’m Battlefeel1942, a creator with a diverse skill set i
 
 ## Web Apps
 
-### Color Step Gradient Generator
+#### Color Step Gradient Generator
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/battlefeel1942/color-step)
 [![Website](https://img.shields.io/badge/Website-Live%20Demo-green)](https://battlefeel1942.github.io/color-step/)
 
 This project is a simple web application that generates a color gradient based on user input. The gradient is displayed as a series of color steps, and users can specify the start color, end color, and the number of steps. The state of the gradient can be shared via URL.
 
-### Text Case Transformer
+#### Text Case Transformer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/battlefeel1942/text-case-transformer)
 [![Website](https://img.shields.io/badge/Website-Live%20Demo-green)](https://battlefeel1942.github.io/text-case-transformer/)
 
 Text Case Transformer is a versatile web-based tool that allows users to easily transform text through various transformations, including case changes, encoding, cipher methods, and fun text modifications. This tool is built with pure JavaScript and is hosted on GitHub Pages.
 
-### Sun Position Calculator
+#### Sun Position Calculator
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/battlefeel1942/sun-position-calculator)
 [![Website](https://img.shields.io/badge/Website-Live%20Demo-green)](https://battlefeel1942.github.io/sun-position-calculator/)
@@ -28,7 +28,7 @@ The Sun Position Calculator is a web-based application designed to provide real-
 
 # Scripts:
 
-### InDesign
+## InDesign
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/battlefeel1942/indesign-scripts)
 
 A collection of useful scripts for Adobe InDesign to enhance your workflow
@@ -54,7 +54,7 @@ A collection of useful scripts for Adobe InDesign to enhance your workflow
 
 # Tools:
 
-### Software:
+## Software:
 
 #### Adobe
 
