@@ -54,15 +54,13 @@ A collection of useful scripts for Adobe InDesign to enhance your workflow
 
 ## Tools:
 
-#### Software:
-
-##### Adobe
+#### Adobe
 
 | InDesign | Illustrator | Photoshop | Premiere Pro | After Effects |
 | --- | --- | --- | --- | --- |
 | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/InDesign.png" title="InDesign" alt="InDesign" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/InDesign.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Illustrator.png" title="Illustrator" alt="Illustrator" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Illustrator.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Photoshop.png" title="Photoshop" alt="Photoshop" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Photoshop.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Premiere.png" title="Premiere Pro" alt="Premiere Pro" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Premiere.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/After%20Effects.png" title="After Effects" alt="After Effects" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/After%20Effects.png) |
 
-##### Affinity
+#### Affinity
 
 | Publisher | Designer | Photo |
 | --- | --- | --- |
