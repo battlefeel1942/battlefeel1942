@@ -1,6 +1,8 @@
 # Battlefeel1942
 
-Welcome to my GitHub! I’m Battlefeel1942, a creator with a diverse skill set in both creative software and programming. My expertise spans across Adobe and Affinity suites, where I craft visually stunning content, and programming languages like Python, JavaScript, and C, where I build functional and innovative web tools. From designing intricate scripts for Adobe InDesign to developing dynamic web applications, my repositories reflect a commitment to enhancing workflows and providing user-friendly solutions. Explore my projects and see what I’m working on!
+Welcome to my GitHub! I’m Battlefeel1942, a creator with a diverse skill set in both creative software and programming. My expertise spans across Adobe and Affinity suites, where I craft visually stunning content, and programming languages like Python, JavaScript, and C, where I build functional and innovative tools. 
+
+From designing intricate scripts for Adobe InDesign to developing dynamic web applications, my repositories reflect a commitment to enhancing workflows and providing user-friendly solutions. Explore my projects and see what I’m working on!
 
 ## Web Apps
 
