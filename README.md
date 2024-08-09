@@ -29,7 +29,7 @@ The Sun Position Calculator is a web-based application designed to provide real-
 <hr >
 
 ## Productivity
-:
+
 #### Employee QR Code Image Generator (From .CSV)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/battlefeel1942/csv-to-vcard)
