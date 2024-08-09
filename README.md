@@ -26,9 +26,9 @@ The Sun Position Calculator is a web-based application designed to provide real-
 
 <hr >
 
-# Scripts:
+## Scripts:
 
-## InDesign
+#### InDesign
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/battlefeel1942/indesign-scripts)
 
 A collection of useful scripts for Adobe InDesign to enhance your workflow
@@ -52,17 +52,17 @@ A collection of useful scripts for Adobe InDesign to enhance your workflow
 
 <hr >
 
-# Tools:
+## Tools:
 
-## Software:
+#### Software:
 
-#### Adobe
+##### Adobe
 
 | InDesign | Illustrator | Photoshop | Premiere Pro | After Effects |
 | --- | --- | --- | --- | --- |
 | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/InDesign.png" title="InDesign" alt="InDesign" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/InDesign.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Illustrator.png" title="Illustrator" alt="Illustrator" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Illustrator.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Photoshop.png" title="Photoshop" alt="Photoshop" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Photoshop.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Premiere.png" title="Premiere Pro" alt="Premiere Pro" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/Premiere.png) | [<img src="https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/After%20Effects.png" title="After Effects" alt="After Effects" width="55" height="55" style="max-width: 100%;">](https://raw.githubusercontent.com/computergnome99/adobe-icons/main/png/Icon/After%20Effects.png) |
 
-#### Affinity
+##### Affinity
 
 | Publisher | Designer | Photo |
 | --- | --- | --- |
@@ -70,24 +70,24 @@ A collection of useful scripts for Adobe InDesign to enhance your workflow
 
 <hr >
 
-### Programming/Coding Languages:
+#### Programming/Coding Languages:
 
 | Python3 | JS | C |
 | --- | --- | --- |
 | [<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="VueJS" alt="VueJS" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg) | 
 
-### Web Frameworks:
+#### Web Frameworks:
 | VueJS | TailWind | WordPress |
 | --- | --- | --- |
 | ![VueJS](https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg) | ![Tailwind CSS](https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg) | ![WordPress](https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg) |
 
-### Environments, Testing, Other:
+#### Environments, Testing, Other:
 
 | nodejs | Git | Docker | Arduino |
 | --- | --- | --- | --- |
 | [<img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg) | [<img src="https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="55" height="55" style="max-width: 100%;">](https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg) |
 
-### OS:
+#### OS:
 
 | Windows | Linux | Ubuntu | 
 | --- | --- | --- |
